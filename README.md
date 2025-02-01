@@ -1,4 +1,6 @@
-# ข้อมูลโภชนาการอาหารไทย (Thai Food Data JSON)
+# ข้อมูลโภชนาการอาหารไทย (Thai Food Data JSON) 
+
+Thai Nutrition Dataset
 
 ## ภาพรวม
 
