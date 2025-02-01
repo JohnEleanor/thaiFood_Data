@@ -68,8 +68,8 @@
 - พัฒนาแอปพลิเคชันเกี่ยวกับสุขภาพและโภชนาการ
 
 
-## ลิขสิทธิ์
+## Creadit
 
 ```bash
-Cr. https://inmu2.mahidol.ac.th/thaifcd/home.php
+https://inmu2.mahidol.ac.th/thaifcd/home.php
 ```
